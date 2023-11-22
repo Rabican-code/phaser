@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background: linear-gradient(to right, #03b503, #1fff1f);
+    color: white;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
